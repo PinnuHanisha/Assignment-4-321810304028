@@ -1,0 +1,13 @@
+def my(x):#palindroam r not
+        return x[::-1]
+try:
+    x=mam
+    ans=my(x)
+    if ans:
+        print('yes')
+    else:
+        print('no')
+except:
+    print(" input is not a proper")
+finally:
+    print('execution')
